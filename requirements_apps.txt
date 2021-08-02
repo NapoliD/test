@@ -1,0 +1,2 @@
+# Requirements for the Python/Flask app publishing example.
+flask~=0.12
